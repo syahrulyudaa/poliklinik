@@ -2,10 +2,10 @@
 
 ## Login Admin
 
-- username : hilmi
-- password : hilmi123
+- username : admin1
+- password : admin123
 
 ## Login Dokter
 
-- NIP = 2002300502 
-- password = 12345
+- NIP = 0099887766
+- password = 0099887766
